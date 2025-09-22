@@ -1,0 +1,18 @@
+[
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 0.8348562717437744,
+        "process_time": 0.15658839999999996,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/EVAL/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": 0,
+        "type": "ALTCONTROL",
+        "time": 0.7576329708099365,
+        "process_time": 0.10830850000000014,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/EVAL/ALTCONTROL/zlib/zlib_ALTCONTROL_0.out"
+    }
+]

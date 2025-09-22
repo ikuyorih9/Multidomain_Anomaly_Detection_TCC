@@ -1,0 +1,10 @@
+[
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 0.9617159366607666,
+        "process_time": 0.323515,
+        "output": "../../../results/clustering_results/CLUSTERS/CoLA/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    }
+]

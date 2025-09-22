@@ -1,0 +1,50 @@
+[
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 1.188239336013794,
+        "process_time": 0.41021839999999976,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/MNLI/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 0.7843987941741943,
+        "process_time": 0.15337120000000004,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/MNLI/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    },
+    {
+        "compressor": "ppmd",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 1.0515825748443604,
+        "process_time": 0.17307650000000008,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/MNLI/ALTCONTROL/ppmd/ppmd_ALTCONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 0.6933205127716064,
+        "process_time": 0.10139840000000033,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/MNLI/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 3.8591361045837402,
+        "process_time": 0.1699423000000002,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/MNLI/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    },
+    {
+        "compressor": "zlib",
+        "number": "default",
+        "type": "ALTCONTROL",
+        "time": 0.9527974128723145,
+        "process_time": 0.1591085999999997,
+        "output": "../../../results/BERT_clustering_results/CLUSTERS/MNLI/ALTCONTROL/zlib/zlib_ALTCONTROL_default.out"
+    }
+]
