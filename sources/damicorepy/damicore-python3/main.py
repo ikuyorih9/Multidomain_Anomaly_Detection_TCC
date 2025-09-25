@@ -401,7 +401,7 @@ if __name__ == '__main__':
                             is_singular = verify_singular_group(data[0]["output"])
                             if(is_singular):
                                 break
-                print(f"\n\033[33m Anomaly {"NOT" if not is_singular else ""} found: {i}/{repetition-1}\n\033[0m")
+                print(f"\n\033[33m Anomaly {('NOT' if not is_singular else '')} found: {i}/{repetition-1}\n\033[0m")
                 processing_time_to_json(
                     [{
                         "load": load,
