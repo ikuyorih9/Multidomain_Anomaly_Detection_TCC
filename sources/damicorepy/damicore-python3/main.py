@@ -339,7 +339,10 @@ if __name__ == '__main__':
         times_dir = f"{output_dir}/TIMES"
 
         type_count = 1
-        type_total = len(os.listdir(load_dir))
+        type_total = len([
+            nome for nome in os.listdir(load_dir)
+            if os.path.isdir(os.path.join(load_dir, nome))
+        ])
 
         # Para cada tipo dentro de load.
         for type in os.listdir(load_dir): 
@@ -408,7 +411,7 @@ if __name__ == '__main__':
                             is_singular = verify_singular_group(data[0]["output"])
                             if(is_singular):
                                 break
-                print(f"\033[33mAnomaly{(' NOT ' if not is_singular else ' ')}found: {i}/{repetition-1}\033[0m")
+                print(f"\nANOMALY{(' NOT ' if not is_singular else ' ')}FOUND: {i}/{repetition-1}\033[0m")
                 processing_time_to_json(
                     [{
                         "load": load,
