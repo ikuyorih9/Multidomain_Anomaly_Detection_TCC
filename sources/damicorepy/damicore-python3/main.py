@@ -411,7 +411,7 @@ if __name__ == '__main__':
                             is_singular = verify_singular_group(data[0]["output"])
                             if(is_singular):
                                 break
-                print(f"\nANOMALY{(' NOT ' if not is_singular else ' ')}FOUND: {i}/{repetition-1}\033[0m")
+                print(f"\033[36m\nANOMALY{(' NOT ' if not is_singular else ' ')}FOUND: {i}/{repetition-1}\033[0m")
                 processing_time_to_json(
                     [{
                         "load": load,
@@ -423,8 +423,8 @@ if __name__ == '__main__':
                     }],
                     output_path)
                 # TRANSFORMAR OS .OUT EM JSON
-            type += 1
-        load += 1
+            type_count += 1
+        load_count += 1
 
             
         
