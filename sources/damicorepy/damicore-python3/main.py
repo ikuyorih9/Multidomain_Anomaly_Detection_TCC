@@ -323,6 +323,9 @@ if __name__ == '__main__':
     output_dir = f"{results_dir}/{args.output}"
     os.makedirs(output_dir, exist_ok=True)
 
+    load_count = 1
+    load_total = len(os.listdir(profiles_dir))
+
     # Para cada load.
     for load in os.listdir(profiles_dir): # profiles
         load_dir = f"{profiles_dir}/{load}" # profiles/CANCHER-PHON
@@ -334,6 +337,10 @@ if __name__ == '__main__':
         
         control_dir = f"{load_dir}/CONTROL" # Obtém o diretório de controle da carga. #profiles/CANCER-PHON/CONTROL
         times_dir = f"{output_dir}/TIMES"
+
+        type_count = 1
+        type_total = len(os.listdir(load_dir))
+
         # Para cada tipo dentro de load.
         for type in os.listdir(load_dir): 
             if not type in selected_types: # Se não está dentro dos tipos selecionados.
@@ -348,8 +355,8 @@ if __name__ == '__main__':
             profile_paths = [f for f in os.listdir(type_dir) if os.path.isfile(os.path.join(type_dir, f))]
 
             for rep in range(repetition):
-                print(f"\n\033[33mLOAD: {load}")
-                print(f"TYPE: {type}")
+                print(f"\n\033[33mLOAD: {load} ({load_count}/{load_total})")
+                print(f"TYPE: {type}  ({type_count}/{type_total})")
                 print(f"COMPRESSOR: {compressor}")
                 print(f"REPETITION: {rep}\n\033[0m")
 
@@ -413,6 +420,8 @@ if __name__ == '__main__':
                     }],
                     output_path)
                 # TRANSFORMAR OS .OUT EM JSON
+            type += 1
+        load += 1
 
             
         
