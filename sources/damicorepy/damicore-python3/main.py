@@ -357,11 +357,11 @@ if __name__ == '__main__':
 
             profile_paths = [f for f in os.listdir(type_dir) if os.path.isfile(os.path.join(type_dir, f))]
 
+            print(f"\n\033[33mLOAD: {load} ({load_count}/{load_total})\033[0m")
+            print(f"\033[33mTYPE: {type}  ({type_count}/{type_total})\033[0m")
+            print(f"\033[33mCOMPRESSOR: {compressor}\033[0m")
             for rep in range(repetition):
-                print(f"\n\033[33mLOAD: {load} ({load_count}/{load_total})")
-                print(f"TYPE: {type}  ({type_count}/{type_total})")
-                print(f"COMPRESSOR: {compressor}")
-                print(f"REPETITION: {rep}\n\033[0m")
+                print(f"\033[33mREPETITION: {rep}\n\033[0m")
 
                 limpa_dir("../sample_data")
                 copia_arquivos(control_dir, "../sample_data") # Copia os arquivos CONTROL para sample_data
