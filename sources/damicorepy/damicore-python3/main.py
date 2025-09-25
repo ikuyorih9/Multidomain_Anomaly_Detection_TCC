@@ -146,7 +146,7 @@ def limpa_dir(output_dir:str):
         os.makedirs(output_dir)
 
     # Aqui você pode adicionar o restante da lógica da função
-    print(f"[CLEANING] O diretório {output_dir} foi limpo.")
+    # print(f"[CLEANING] O diretório {output_dir} foi limpo.")
 
 def copia_arquivo(origem: str, destino: str):
     """
@@ -197,12 +197,12 @@ def copia_arquivos(origem: str, destino: str, selection:str = None):
                     shutil.copytree(origem_item, destino_item)  # Copia diretórios recursivamente
             else:
                 if selection in item:
-                    print(f"Copiando {item}...")
+                    # print(f"Copiando {item}...")
                     if os.path.isfile(origem_item):
                         shutil.copy2(origem_item, destino_item)  # Copia o arquivo preservando metadados
                     elif os.path.isdir(origem_item):
                         shutil.copytree(origem_item, destino_item)  # Copia diretórios recursivamente
-        print(f"[COPY] Arquivos de {origem} foram copiados para {destino}")
+        # print(f"[COPY] Arquivos de {origem} foram copiados para {destino}")
     
 def copia_samples(main_dir:str, var_dir:str, output_dir:str, selection:str = None):
     limpa_dir(output_dir)
@@ -339,10 +339,6 @@ if __name__ == '__main__':
             if not type in selected_types: # Se não está dentro dos tipos selecionados.
                 continue
 
-            print(f"\n\033[33mLOAD: {load}")
-            print(f"TYPE: {type}")
-            print(f"COMPRESSOR: {compressor}\n\033[0m")
-
             type_dir = f"{load_dir}/{type}" # profiles/CANCHER-PHON/API
             cluster_dir = f"{output_dir}/CLUSTERS/{load}/{type}" # results/4_damicore/CLUSTERS/CANCER-PHON/API
             output_path = f"{output_dir}/RESULTS/{load}/{type}" # results/4_damicore/RESULTS/CANCER-PHON/API
@@ -352,6 +348,11 @@ if __name__ == '__main__':
             profile_paths = [f for f in os.listdir(type_dir) if os.path.isfile(os.path.join(type_dir, f))]
 
             for rep in range(repetition):
+                print(f"\n\033[33mLOAD: {load}")
+                print(f"TYPE: {type}")
+                print(f"COMPRESSOR: {compressor}")
+                print(f"REPETITION: {rep}\n\033[0m")
+
                 limpa_dir("../sample_data")
                 copia_arquivos(control_dir, "../sample_data") # Copia os arquivos CONTROL para sample_data
 
@@ -400,6 +401,7 @@ if __name__ == '__main__':
                             is_singular = verify_singular_group(data[0]["output"])
                             if(is_singular):
                                 break
+                print(f"\n\033[33m Anomaly {"NOT" if not is_singular else ""} found: {i}/{repetition-1}\n\033[0m")
                 processing_time_to_json(
                     [{
                         "load": load,
