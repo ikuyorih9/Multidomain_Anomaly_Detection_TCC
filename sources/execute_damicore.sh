@@ -3,7 +3,7 @@
 SECONDS=0  # Inicia contagem de tempo total
 
 # Lista de compressores
-compressors=("zlib" "ppmd" "heif" "entropy")
+compressors=("heif" "entropy" "ppmd" "zlib")
 
 # Armazena todas as flags passadas ao .sh (exceto o nome do compressor)
 extra_flags=("$@")
