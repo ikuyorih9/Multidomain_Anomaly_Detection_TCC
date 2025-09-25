@@ -361,7 +361,7 @@ if __name__ == '__main__':
             print(f"\033[33mTYPE: {type}  ({type_count}/{type_total})\033[0m")
             print(f"\033[33mCOMPRESSOR: {compressor}\033[0m")
             for rep in range(repetition):
-                print(f"\033[33mREPETITION: {rep}\n\033[0m")
+                print(f"\033[33m\nREPETITION: {rep}\n\033[0m")
 
                 limpa_dir("../sample_data")
                 copia_arquivos(control_dir, "../sample_data") # Copia os arquivos CONTROL para sample_data
