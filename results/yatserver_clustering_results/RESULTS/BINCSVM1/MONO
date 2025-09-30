@@ -2,9 +2,489 @@
     {
         "load": "BINCSVM1",
         "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 150.20350170135498,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.02367329597473,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 152.4872329235077,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 148.47976231575012,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.9714126586914,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 149.7531018257141,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 152.13458156585693,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 149.384174823761,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.5676407814026,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.83665561676025,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 149.02997374534607,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.97529411315918,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 159.1391351222992,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 151.49084973335266,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 152.27848100662231,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 149.54955387115479,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 152.45736026763916,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.182683467865,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 147.6528799533844,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.7146291732788,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 148.82824063301086,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 155.07893800735474,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.0644302368164,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 150.5065941810608,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 151.58424425125122,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 149.59234023094177,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 155.18992018699646,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 151.2115626335144,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 150.45319247245789,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "heif",
+        "iteration": 9,
+        "time": 153.36775588989258,
+        "repetition": 29
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 0.9919826984405518,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 0.9954566955566406,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0996382236480713,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.043494701385498,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0540122985839844,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0029289722442627,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.009185552597046,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.008805513381958,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.024134874343872,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 4.261178255081177,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0193464756011963,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0183131694793701,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0227789878845215,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0388903617858887,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0548360347747803,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0044002532958984,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0407893657684326,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0517148971557617,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.022284746170044,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0341908931732178,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.1072595119476318,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0049943923950195,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0130996704101562,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 0.9996695518493652,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0052711963653564,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.0634491443634033,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.1946537494659424,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.2118346691131592,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 3.075298547744751,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
+        "compressor": "entropy",
+        "iteration": 2,
+        "time": 1.1562004089355469,
+        "repetition": 29
+    },
+    {
+        "load": "BINCSVM1",
+        "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1507041454315186,
+        "time": 3.048739194869995,
         "repetition": 0
     },
     {
@@ -12,7 +492,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.120175838470459,
+        "time": 1.3022880554199219,
         "repetition": 1
     },
     {
@@ -20,7 +500,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1347441673278809,
+        "time": 1.294508934020996,
         "repetition": 2
     },
     {
@@ -28,7 +508,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1302661895751953,
+        "time": 1.3191187381744385,
         "repetition": 3
     },
     {
@@ -36,7 +516,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1259636878967285,
+        "time": 1.2621252536773682,
         "repetition": 4
     },
     {
@@ -44,7 +524,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.131413459777832,
+        "time": 1.3774354457855225,
         "repetition": 5
     },
     {
@@ -52,7 +532,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1191883087158203,
+        "time": 1.338172197341919,
         "repetition": 6
     },
     {
@@ -60,7 +540,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1311023235321045,
+        "time": 1.2665748596191406,
         "repetition": 7
     },
     {
@@ -68,7 +548,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1388874053955078,
+        "time": 1.3434484004974365,
         "repetition": 8
     },
     {
@@ -76,7 +556,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1593327522277832,
+        "time": 1.2671961784362793,
         "repetition": 9
     },
     {
@@ -84,7 +564,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.143312692642212,
+        "time": 1.4256043434143066,
         "repetition": 10
     },
     {
@@ -92,7 +572,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1296627521514893,
+        "time": 1.7179176807403564,
         "repetition": 11
     },
     {
@@ -100,7 +580,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1310279369354248,
+        "time": 1.5934252738952637,
         "repetition": 12
     },
     {
@@ -108,7 +588,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.148317575454712,
+        "time": 1.5499582290649414,
         "repetition": 13
     },
     {
@@ -116,7 +596,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 4.066527605056763,
+        "time": 1.5716736316680908,
         "repetition": 14
     },
     {
@@ -124,7 +604,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1207685470581055,
+        "time": 3.0522937774658203,
         "repetition": 15
     },
     {
@@ -132,7 +612,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.158372402191162,
+        "time": 1.2948360443115234,
         "repetition": 16
     },
     {
@@ -140,7 +620,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.147261381149292,
+        "time": 1.3472340106964111,
         "repetition": 17
     },
     {
@@ -148,7 +628,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.122971773147583,
+        "time": 1.3027145862579346,
         "repetition": 18
     },
     {
@@ -156,7 +636,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1299023628234863,
+        "time": 1.2805933952331543,
         "repetition": 19
     },
     {
@@ -164,7 +644,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1327519416809082,
+        "time": 1.2753441333770752,
         "repetition": 20
     },
     {
@@ -172,7 +652,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1191344261169434,
+        "time": 1.2994520664215088,
         "repetition": 21
     },
     {
@@ -180,7 +660,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.134960651397705,
+        "time": 1.2551369667053223,
         "repetition": 22
     },
     {
@@ -188,7 +668,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1475744247436523,
+        "time": 1.2884628772735596,
         "repetition": 23
     },
     {
@@ -196,7 +676,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1318306922912598,
+        "time": 1.29628586769104,
         "repetition": 24
     },
     {
@@ -204,7 +684,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.138833999633789,
+        "time": 1.2864091396331787,
         "repetition": 25
     },
     {
@@ -212,7 +692,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1684527397155762,
+        "time": 1.3121540546417236,
         "repetition": 26
     },
     {
@@ -220,7 +700,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1327364444732666,
+        "time": 1.297598123550415,
         "repetition": 27
     },
     {
@@ -228,7 +708,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1281342506408691,
+        "time": 1.6260201930999756,
         "repetition": 28
     },
     {
@@ -236,7 +716,7 @@
         "type": "MONO",
         "compressor": "ppmd",
         "iteration": 2,
-        "time": 1.1215999126434326,
+        "time": 1.4652783870697021,
         "repetition": 29
     }
 ]
