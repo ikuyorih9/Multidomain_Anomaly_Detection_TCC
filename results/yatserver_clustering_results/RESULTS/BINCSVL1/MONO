@@ -1,0 +1,242 @@
+[
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.511247158050537,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5272002220153809,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5015735626220703,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.4931175708770752,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 4.4317567348480225,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.7028071880340576,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5062057971954346,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.52836012840271,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5083379745483398,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5443263053894043,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.499837875366211,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5520553588867188,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.4978914260864258,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5107753276824951,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.4973790645599365,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5076098442077637,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5018279552459717,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5102782249450684,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 4.4139323234558105,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.527991533279419,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5152835845947266,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.492736577987671,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5039160251617432,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.4912526607513428,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5173354148864746,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.4905955791473389,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.4996123313903809,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5545454025268555,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.5407912731170654,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "MONO",
+        "compressor": "ppmd",
+        "iteration": 3,
+        "time": 1.49477219581604,
+        "repetition": 29
+    }
+]

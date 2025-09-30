@@ -1,0 +1,242 @@
+[
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.21691107749939,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.94180464744568,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.19993805885315,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.249465703964233,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.172671794891357,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.382273197174072,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.043089628219604,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.015908002853394,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.090357542037964,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.07367491722107,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.881168603897095,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.117196798324585,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.911729335784912,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 19.356323957443237,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.25844645500183,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.018407344818115,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.821966648101807,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.94596219062805,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.910544395446777,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.046233654022217,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.962865591049194,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.45375084877014,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.02194619178772,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.091458320617676,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.894492864608765,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 18.172159671783447,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.92306113243103,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.920274257659912,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.846728801727295,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVH3",
+        "type": "ALTCONTROL",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 17.972292184829712,
+        "repetition": 29
+    }
+]
