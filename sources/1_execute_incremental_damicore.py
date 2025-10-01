@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 import statistics
 from utils.format import *
+import argparse
 
 data_dir = '../results/clustering_results'
 data_results_dir = f'{data_dir}/RESULTS'
@@ -14,6 +15,7 @@ loads = {
     "bert": ["CoLA", "MNLI", "MRPC", "SQuADv1", "SQuADv2", "XNLI"],
     "chess": ["EVAL", "OPTSTEP", "OPTTYPE", "SELF", "SL"],
     "voice": ["MIN-LONG", "MIN-MEDIUM", "MIN-SHORT", "SEC-LONG", "SEC-MEDIUM", "SEC-SHORT"],
+    "decisiontree":["BANK-PIMA","CANCER-PHON","IONO-SOLAR","IRIS-HABER","OIL-MAMMO","WINE-HEART"],
     "yatserver": ["BINCSVH1", "BINCSVH2", "BINCSVH3","BINCSVL1","BINCSVL2","BINCSVL3","BINCSVM1","BINCSVM2","BINCSVM3"]
     # "yatserver": ["BINCSVH1","BINCSVL1","BINCSVM1", "BINH1", "BINL1", "BINM1", "CSVH1", "CSVL1", "CSVM1"]
     # "yatserver": ["BINCSVH1", "BINCSVH2", "BINCSVH3","BINCSVL1","BINCSVL2","BINCSVL3","BINCSVM1","BINCSVM2","BINCSVM3", "BINH1", "BINL1", "BINM1", "CSVH1", "CSVL1", "CSVM1"]
@@ -55,17 +57,33 @@ def compute_boxplot_stats(group):
         'num_outliers': num_outliers
     })
 
-
 applications = os.listdir("../profiles")
 
-for app in applications:
+# ----------------- ARGUMENT PARSING -----------------
+parser = argparse.ArgumentParser(description="Run Damicore and compute incremental stats.")
+parser.add_argument(
+    "--apps", 
+    nargs="+", 
+    default=applications, 
+    help="List of applications to run (default: all apps defined in loads)"
+)
+args = parser.parse_args()
+selected_apps = args.apps
+# -----------------------------------------------------
+
+
+for app in selected_apps:
+    if app not in loads:
+        print(f"⚠️ Skipping {app}: not defined in default loads dict")
+        continue
+
     # EXECUTE DAMICORE
     script = "execute_damicore.sh"
     output = ""
     params = [
         '--reps', '30',
         '--input', app,
-        '--output', f"{app.upper()}_clustering_results",
+        '--output', f"clustering_results/{app.upper()}",
         '--loads'
     ]
 
