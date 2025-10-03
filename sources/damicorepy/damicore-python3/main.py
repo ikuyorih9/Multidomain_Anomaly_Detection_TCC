@@ -339,11 +339,11 @@ if __name__ == '__main__':
         times_dir = f"{output_dir}/TIMES"
 
         type_count = 1
-        # type_total = len([
-        #     nome for nome in os.listdir(load_dir)
-        #     if os.path.isdir(os.path.join(load_dir, nome))
-        # ])
-        type_total=len(selected_types)
+        type_total = len([
+            nome for nome in os.listdir(load_dir)
+            if os.path.isdir(os.path.join(load_dir, nome))
+        ])
+        # type_total=len(selected_types)
 
         # Para cada tipo dentro de load.
         for type in os.listdir(load_dir): 
