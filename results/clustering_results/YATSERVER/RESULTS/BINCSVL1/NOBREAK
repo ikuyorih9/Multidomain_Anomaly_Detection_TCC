@@ -1,0 +1,962 @@
+[
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 225.41182661056519,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 224.93150520324707,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 227.80301690101624,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 222.69610357284546,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 224.3658468723297,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.27221274375916,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 225.71657848358154,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 226.4275164604187,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 221.27461433410645,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 229.58479261398315,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 228.1901445388794,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 222.69240736961365,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 224.7438805103302,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 225.1933469772339,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 220.09015440940857,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 224.568012714386,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.98797726631165,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 222.27203369140625,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 218.44192552566528,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 224.10863590240479,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.09800386428833,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.80354976654053,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 222.31054878234863,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.67879176139832,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 222.2956850528717,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.9381022453308,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 220.537903547287,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.83099603652954,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 224.5392677783966,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "heif",
+        "iteration": 13,
+        "time": 223.367990732193,
+        "repetition": 29
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 10.234709024429321,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.072479963302612,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.942229747772217,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 9.26882791519165,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.960146427154541,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.016071796417236,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 8.863962888717651,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.999992370605469,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.264810800552368,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 9.701304197311401,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.304782152175903,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.965988874435425,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 10.207664966583252,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.979987144470215,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.95248007774353,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 11.112550497055054,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.125854253768921,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.870039701461792,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 10.293664693832397,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.019039154052734,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.918460130691528,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 10.473389387130737,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.434410333633423,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 6.841272592544556,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 10.60352897644043,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.285901069641113,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.08039402961731,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 10.448803663253784,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.553439378738403,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "entropy",
+        "iteration": 17,
+        "time": 7.046258926391602,
+        "repetition": 29
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.74354863166809,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.634994506835938,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 21.759575843811035,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.595635414123535,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.274928331375122,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.72672724723816,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.386507034301758,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.959707021713257,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.87080669403076,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.729934453964233,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.41788673400879,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 21.75935435295105,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.85776710510254,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.571134567260742,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.98747730255127,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.261340856552124,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.015901565551758,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.967392683029175,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 25.554200172424316,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.750187158584595,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 20.73867678642273,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.2289400100708,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 22.430317163467407,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.29985737800598,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 23.874792337417603,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 25.325292587280273,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 27.77878451347351,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 27.068118810653687,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 24.445417881011963,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "ppmd",
+        "iteration": -1,
+        "time": 25.107689142227173,
+        "repetition": 29
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.945893049240112,
+        "repetition": 0
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.011608600616455,
+        "repetition": 1
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.776388883590698,
+        "repetition": 2
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.166783571243286,
+        "repetition": 3
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.15130090713501,
+        "repetition": 4
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.18235969543457,
+        "repetition": 5
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.035390377044678,
+        "repetition": 6
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.971200466156006,
+        "repetition": 7
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.078686714172363,
+        "repetition": 8
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.009101152420044,
+        "repetition": 9
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.889188528060913,
+        "repetition": 10
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.940937042236328,
+        "repetition": 11
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.088527202606201,
+        "repetition": 12
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.869071006774902,
+        "repetition": 13
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.916440486907959,
+        "repetition": 14
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.913239002227783,
+        "repetition": 15
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.882687568664551,
+        "repetition": 16
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.895426511764526,
+        "repetition": 17
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.931265592575073,
+        "repetition": 18
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 7.154488563537598,
+        "repetition": 19
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.952072620391846,
+        "repetition": 20
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.901437044143677,
+        "repetition": 21
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.935290813446045,
+        "repetition": 22
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.947265625,
+        "repetition": 23
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.9368674755096436,
+        "repetition": 24
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.9798877239227295,
+        "repetition": 25
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.941167831420898,
+        "repetition": 26
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.921226739883423,
+        "repetition": 27
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.97838568687439,
+        "repetition": 28
+    },
+    {
+        "load": "BINCSVL1",
+        "type": "NOBREAK",
+        "compressor": "zlib",
+        "iteration": 29,
+        "time": 6.906205654144287,
+        "repetition": 29
+    }
+]
