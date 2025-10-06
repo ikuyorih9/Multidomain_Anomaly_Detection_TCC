@@ -16,6 +16,7 @@ loads = {
     "chess": ["EVAL", "OPTSTEP", "OPTTYPE", "SELF", "SL"],
     "voice": ["MIN-LONG", "MIN-MEDIUM", "MIN-SHORT", "SEC-LONG", "SEC-MEDIUM", "SEC-SHORT"],
     "decisiontree":["CANCER-PHON","IONO-SOLAR","WINE-HEART"],
+    "javasort": ["QUICK30M-Sort","QUICK60M-Sort","QUICK100M-Sort"],
     "yatserver": ["BINCSVH1", "BINCSVH2", "BINCSVH3","BINCSVL1","BINCSVL2","BINCSVL3","BINCSVM1","BINCSVM2","BINCSVM3"]
     # "decisiontree":["BANK-PIMA","CANCER-PHON","IONO-SOLAR","IRIS-HABER","OIL-MAMMO","WINE-HEART"],
     # "yatserver": ["BINCSVH1","BINCSVL1","BINCSVM1", "BINH1", "BINL1", "BINM1", "CSVH1", "CSVL1", "CSVM1"]
