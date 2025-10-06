@@ -245,19 +245,26 @@ def print_progress_bar(current:int, min:int = 0, max:int = 100, max_relative=40)
  
 def verify_singular_group(file: str):
     df = pd.read_csv(file, header=None)
-    
     df.columns = ['file_name', 'group']
-    # Extrai partes da string com regex direto da coluna 'file_name'
+
+    # Extrai as partes da string
     df[['load', 'type', 'file']] = df["file_name"].str.extract(
         r'^(?P<load>[^_]+)_.*?_(?P<type>[A-Za-z\-]+)_(?:py|exe)_(?P<file>\d+)_csv$'
     )
+
+    # Remove linhas que não bateram com o regex
+    df = df.dropna(subset=["file", "type", "load"]).copy()
+
+    # Converte colunas numéricas
     df['file'] = df['file'].astype(int)
     df['group'] = df['group'].astype(int)
+
     df = df[['load', 'type', 'file', 'group']]
 
+    # Verifica se há grupos que não contêm 'CONTROL'
     filtros = df.groupby("group")["type"].apply(lambda x: (x != "CONTROL").all())
     exclusive_groups = filtros[filtros].index.tolist()
-    
+
     return len(exclusive_groups) > 0
 if __name__ == '__main__':
 
@@ -281,6 +288,7 @@ if __name__ == '__main__':
         "--types",
         nargs="+",
         default=all_types,
+        choices=all_types,
         help=f"Tipos selecionados (padrão: {all_types})"
     )
     parser.add_argument(
