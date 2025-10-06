@@ -281,7 +281,6 @@ if __name__ == '__main__':
         "--types",
         nargs="+",
         default=all_types,
-        choices=all_types,
         help=f"Tipos selecionados (padrão: {all_types})"
     )
     parser.add_argument(
